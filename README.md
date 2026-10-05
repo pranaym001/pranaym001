@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pranay 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Final-Year+B.E.+Student;I+build+ML+systems+that+solve+real+problems;Published+Researcher+%7C+Product-Minded+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+B.E.+Graduate;I+build+ML+systems+that+solve+real+problems;Published+Researcher+%7C+Product-Minded+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **B.E. in Artificial Intelligence & Machine Learning** (2023–2026)
+- 🎓 **B.E. Graduate in Artificial Intelligence & Machine Learning** (2023–2026)
 - 🔬 **Published research** on ML-based phishing detection (I3PSG 2026 international conference)
 - ☁️ AWS Solutions Architect and Azure AI Foundry certified
 - 🧠 Interested in the space between engineering and product: building things people actually use
