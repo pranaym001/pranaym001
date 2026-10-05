@@ -20,7 +20,7 @@
 - ☁️ AWS Solutions Architect and Azure AI Foundry certified
 - 🧠 Interested in the space between engineering and product: building things people actually use
 - 📍 Mumbai / Kalyan, Maharashtra, India
-- 💼 **Open to fresher and entry-level roles** in Software Development, AI/ML, Data Engineering, QA/SDET and Product
+- 💼 **Open to fresher and entry-level roles** in Software Development, AI/ML, Data Engineering, QA/SDET
 
 ---
 
